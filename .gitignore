@@ -2,6 +2,3 @@ build
 .gradle
 .idea
 *.iml
-/gradle/wrapper/
-/gradlew
-/gradlew.bat
